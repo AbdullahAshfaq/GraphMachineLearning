@@ -5,7 +5,8 @@ Comparing the effectiveness of State-of-the-Art Graph ML models vs the tradition
 ## Instructions:
 The dataset is fetched and processed in a separate script in `Basic/movielens_exploration.ipynb` but the `train.pt`, `test.pt` and `val.pt` are saved in `data/` so we use these sets directly. <be>
 1. **Linear Algebra Approach**: This is in the `Linear Algebra Approach/personalised_page_rank.ipynb` notebook. Please upload the `train.pt`, `test.pt` and `val.pt` from `./data/movielens/` into `./data/movielens/` directory in Colab and execute all cells in the notebook to get the result.
-2. **Graph Neural Network (SOTA) Approach**: This is in the `MovieLens_GNN_Link_Prediction.ipynb` notebook. Please upload the `train.pt`, `test.pt` and `val.pt` from `./data/movielens/` into `/` directory in Colab and execute all cells in the notebook to get the result.
+2. **Graph Neural Network (SOTA) Approach**: This is in the `MovieLens_GNN_Link_Prediction.ipynb` notebook. Please upload the `train.pt`, `test.pt` and `val.pt` from `./data/movielens/` into `/` directory in Colab and execute all cells in the notebook to get the result. <br>
+<ins>Credits</ins>: [Pytorch Geometric Official Examples](https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html)
 
 ## Results
 
